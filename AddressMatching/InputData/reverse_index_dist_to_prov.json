@@ -1,0 +1,8141 @@
+{
+  "Ba Đình": {
+    "name": "Ba Đình",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hoàn Kiếm": {
+    "name": "Hoàn Kiếm",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tây Hồ": {
+    "name": "Tây Hồ",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Long Biên": {
+    "name": "Long Biên",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cầu Giấy": {
+    "name": "Cầu Giấy",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Đống Đa": {
+    "name": "Đống Đa",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hai Bà Trưng": {
+    "name": "Hai Bà Trưng",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hoàng Mai": {
+    "name": "Hoàng Mai",
+    "prefix": [
+      "Quận",
+      "Thị xã"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      },
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Xuân": {
+    "name": "Thanh Xuân",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Sóc Sơn": {
+    "name": "Sóc Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Đông Anh": {
+    "name": "Đông Anh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Gia Lâm": {
+    "name": "Gia Lâm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Nam Từ Liêm": {
+    "name": "Nam Từ Liêm",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thanh Trì": {
+    "name": "Thanh Trì",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Bắc Từ Liêm": {
+    "name": "Bắc Từ Liêm",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Mê Linh": {
+    "name": "Mê Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hà Đông": {
+    "name": "Hà Đông",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Sơn Tây": {
+    "name": "Sơn Tây",
+    "prefix": [
+      "Thị xã",
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      },
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Vì": {
+    "name": "Ba Vì",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Phúc Thọ": {
+    "name": "Phúc Thọ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Đan Phượng": {
+    "name": "Đan Phượng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hoài Đức": {
+    "name": "Hoài Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Quốc Oai": {
+    "name": "Quốc Oai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thạch Thất": {
+    "name": "Thạch Thất",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Chương Mỹ": {
+    "name": "Chương Mỹ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thanh Oai": {
+    "name": "Thanh Oai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thường Tín": {
+    "name": "Thường Tín",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Phú Xuyên": {
+    "name": "Phú Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Ứng Hòa": {
+    "name": "Ứng Hòa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Mỹ Đức": {
+    "name": "Mỹ Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nội": {
+        "name": "Hà Nội",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hà Giang": {
+    "name": "Hà Giang",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đồng Văn": {
+    "name": "Đồng Văn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mèo Vạc": {
+    "name": "Mèo Vạc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Minh": {
+    "name": "Yên Minh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quản Bạ": {
+    "name": "Quản Bạ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vị Xuyên": {
+    "name": "Vị Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Mê": {
+    "name": "Bắc Mê",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoàng Su Phì": {
+    "name": "Hoàng Su Phì",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Xín Mần": {
+    "name": "Xín Mần",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Quang": {
+    "name": "Bắc Quang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quang Bình": {
+    "name": "Quang Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Giang": {
+        "name": "Hà Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cao Bằng": {
+    "name": "Cao Bằng",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bảo Lâm": {
+    "name": "Bảo Lâm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      },
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bảo Lạc": {
+    "name": "Bảo Lạc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hà Quảng": {
+    "name": "Hà Quảng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trùng Khánh": {
+    "name": "Trùng Khánh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hạ Lang": {
+    "name": "Hạ Lang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Hòa": {
+    "name": "Quảng Hòa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoà An": {
+    "name": "Hoà An",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nguyên Bình": {
+    "name": "Nguyên Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạch An": {
+    "name": "Thạch An",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cao Bằng": {
+        "name": "Cao Bằng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thành Phố Bắc Kạn": {
+    "name": "Thành Phố Bắc Kạn",
+    "prefix": [
+      ""
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Pác Nặm": {
+    "name": "Pác Nặm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Bể": {
+    "name": "Ba Bể",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngân Sơn": {
+    "name": "Ngân Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bạch Thông": {
+    "name": "Bạch Thông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chợ Đồn": {
+    "name": "Chợ Đồn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chợ Mới": {
+    "name": "Chợ Mới",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      },
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Na Rì": {
+    "name": "Na Rì",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Kạn": {
+        "name": "Bắc Kạn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuyên Quang": {
+    "name": "Tuyên Quang",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lâm Bình": {
+    "name": "Lâm Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Na Hang": {
+    "name": "Na Hang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chiêm Hóa": {
+    "name": "Chiêm Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hàm Yên": {
+    "name": "Hàm Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Sơn": {
+    "name": "Yên Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn Dương": {
+    "name": "Sơn Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tuyên Quang": {
+        "name": "Tuyên Quang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lào Cai": {
+    "name": "Lào Cai",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bát Xát": {
+    "name": "Bát Xát",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Khương": {
+    "name": "Mường Khương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Si Ma Cai": {
+    "name": "Si Ma Cai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Hà": {
+    "name": "Bắc Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bảo Thắng": {
+    "name": "Bảo Thắng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bảo Yên": {
+    "name": "Bảo Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sa Pa": {
+    "name": "Sa Pa",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Bàn": {
+    "name": "Văn Bàn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lào Cai": {
+        "name": "Lào Cai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Điện Biên Phủ": {
+    "name": "Điện Biên Phủ",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thị Xã Mường Lay": {
+    "name": "Thị Xã Mường Lay",
+    "prefix": [
+      ""
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Nhé": {
+    "name": "Mường Nhé",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Chà": {
+    "name": "Mường Chà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tủa Chùa": {
+    "name": "Tủa Chùa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuần Giáo": {
+    "name": "Tuần Giáo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Điện Biên": {
+    "name": "Điện Biên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Điện Biên Đông": {
+    "name": "Điện Biên Đông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Ảng": {
+    "name": "Mường Ảng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nậm Pồ": {
+    "name": "Nậm Pồ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Điện Biên": {
+        "name": "Điện Biên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lai Châu": {
+    "name": "Lai Châu",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Đường": {
+    "name": "Tam Đường",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Tè": {
+    "name": "Mường Tè",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sìn Hồ": {
+    "name": "Sìn Hồ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phong Thổ": {
+    "name": "Phong Thổ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Than Uyên": {
+    "name": "Than Uyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Uyên": {
+    "name": "Tân Uyên",
+    "prefix": [
+      "Huyện",
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      },
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nậm Nhùn": {
+    "name": "Nậm Nhùn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lai Châu": {
+        "name": "Lai Châu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn La": {
+    "name": "Sơn La",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quỳnh Nhai": {
+    "name": "Quỳnh Nhai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thuận Châu": {
+    "name": "Thuận Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường La": {
+    "name": "Mường La",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Yên": {
+    "name": "Bắc Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phù Yên": {
+    "name": "Phù Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mộc Châu": {
+    "name": "Mộc Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Châu": {
+    "name": "Yên Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mai Sơn": {
+    "name": "Mai Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sông Mã": {
+    "name": "Sông Mã",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sốp Cộp": {
+    "name": "Sốp Cộp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vân Hồ": {
+    "name": "Vân Hồ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sơn La": {
+        "name": "Sơn La",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Bái": {
+    "name": "Yên Bái",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghĩa Lộ": {
+    "name": "Nghĩa Lộ",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lục Yên": {
+    "name": "Lục Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Yên": {
+    "name": "Văn Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mù Căng Chải": {
+    "name": "Mù Căng Chải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trấn Yên": {
+    "name": "Trấn Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trạm Tấu": {
+    "name": "Trạm Tấu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Chấn": {
+    "name": "Văn Chấn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Bình": {
+    "name": "Yên Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Yên Bái": {
+        "name": "Yên Bái",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hòa Bình": {
+    "name": "Hòa Bình",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đà Bắc": {
+    "name": "Đà Bắc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lương Sơn": {
+    "name": "Lương Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kim Bôi": {
+    "name": "Kim Bôi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cao Phong": {
+    "name": "Cao Phong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Lạc": {
+    "name": "Tân Lạc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mai Châu": {
+    "name": "Mai Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lạc Sơn": {
+    "name": "Lạc Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Thủy": {
+    "name": "Yên Thủy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lạc Thủy": {
+    "name": "Lạc Thủy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hoà Bình": {
+        "name": "Hoà Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thái Nguyên": {
+    "name": "Thái Nguyên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sông Công": {
+    "name": "Sông Công",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Định Hóa": {
+    "name": "Định Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Lương": {
+    "name": "Phú Lương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đồng Hỷ": {
+    "name": "Đồng Hỷ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Võ Nhai": {
+    "name": "Võ Nhai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đại Từ": {
+    "name": "Đại Từ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phổ Yên": {
+    "name": "Phổ Yên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Bình": {
+    "name": "Phú Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Nguyên": {
+        "name": "Thái Nguyên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lạng Sơn": {
+    "name": "Lạng Sơn",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tràng Định": {
+    "name": "Tràng Định",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Gia": {
+    "name": "Bình Gia",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Lãng": {
+    "name": "Văn Lãng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cao Lộc": {
+    "name": "Cao Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Quan": {
+    "name": "Văn Quan",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Sơn": {
+    "name": "Bắc Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hữu Lũng": {
+    "name": "Hữu Lũng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chi Lăng": {
+    "name": "Chi Lăng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lộc Bình": {
+    "name": "Lộc Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đình Lập": {
+    "name": "Đình Lập",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lạng Sơn": {
+        "name": "Lạng Sơn",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hạ Long": {
+    "name": "Hạ Long",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Móng Cái": {
+    "name": "Móng Cái",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Phả": {
+    "name": "Cẩm Phả",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Uông Bí": {
+    "name": "Uông Bí",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Liêu": {
+    "name": "Bình Liêu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiên Yên": {
+    "name": "Tiên Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đầm Hà": {
+    "name": "Đầm Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hải Hà": {
+    "name": "Hải Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Chẽ": {
+    "name": "Ba Chẽ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vân Đồn": {
+    "name": "Vân Đồn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Triều": {
+    "name": "Đông Triều",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Yên": {
+    "name": "Quảng Yên",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cô Tô": {
+    "name": "Cô Tô",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ninh": {
+        "name": "Quảng Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Giang": {
+    "name": "Bắc Giang",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Thế": {
+    "name": "Yên Thế",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Yên": {
+    "name": "Tân Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lạng Giang": {
+    "name": "Lạng Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lục Nam": {
+    "name": "Lục Nam",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lục Ngạn": {
+    "name": "Lục Ngạn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn Động": {
+    "name": "Sơn Động",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Dũng": {
+    "name": "Yên Dũng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thị Xã Việt Yên": {
+    "name": "Thị Xã Việt Yên",
+    "prefix": [
+      ""
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hiệp Hòa": {
+    "name": "Hiệp Hòa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Giang": {
+        "name": "Bắc Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Việt Trì": {
+    "name": "Việt Trì",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Thọ": {
+    "name": "Phú Thọ",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đoan Hùng": {
+    "name": "Đoan Hùng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hạ Hoà": {
+    "name": "Hạ Hoà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Ba": {
+    "name": "Thanh Ba",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phù Ninh": {
+    "name": "Phù Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Lập": {
+    "name": "Yên Lập",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Khê": {
+    "name": "Cẩm Khê",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Nông": {
+    "name": "Tam Nông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      },
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lâm Thao": {
+    "name": "Lâm Thao",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Sơn": {
+    "name": "Thanh Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Thuỷ": {
+    "name": "Thanh Thuỷ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Sơn": {
+    "name": "Tân Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Thọ": {
+        "name": "Phú Thọ",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Yên": {
+    "name": "Vĩnh Yên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phúc Yên": {
+    "name": "Phúc Yên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lập Thạch": {
+    "name": "Lập Thạch",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Dương": {
+    "name": "Tam Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Đảo": {
+    "name": "Tam Đảo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Xuyên": {
+    "name": "Bình Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Lạc": {
+    "name": "Yên Lạc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Tường": {
+    "name": "Vĩnh Tường",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sông Lô": {
+    "name": "Sông Lô",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Phúc": {
+        "name": "Vĩnh Phúc",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Ninh": {
+    "name": "Bắc Ninh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Phong": {
+    "name": "Yên Phong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quế Võ": {
+    "name": "Quế Võ",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiên Du": {
+    "name": "Tiên Du",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Từ Sơn": {
+    "name": "Từ Sơn",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thuận Thành": {
+    "name": "Thuận Thành",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gia Bình": {
+    "name": "Gia Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lương Tài": {
+    "name": "Lương Tài",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bắc Ninh": {
+        "name": "Bắc Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hải Dương": {
+    "name": "Hải Dương",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chí Linh": {
+    "name": "Chí Linh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Sách": {
+    "name": "Nam Sách",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kinh Môn": {
+    "name": "Kinh Môn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kim Thành": {
+    "name": "Kim Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Hà": {
+    "name": "Thanh Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Giàng": {
+    "name": "Cẩm Giàng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Giang": {
+    "name": "Bình Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gia Lộc": {
+    "name": "Gia Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tứ Kỳ": {
+    "name": "Tứ Kỳ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Giang": {
+    "name": "Ninh Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Miện": {
+    "name": "Thanh Miện",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Dương": {
+        "name": "Hải Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hồng Bàng": {
+    "name": "Hồng Bàng",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Ngô Quyền": {
+    "name": "Ngô Quyền",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Lê Chân": {
+    "name": "Lê Chân",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hải An": {
+    "name": "Hải An",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Kiến An": {
+    "name": "Kiến An",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Đồ Sơn": {
+    "name": "Đồ Sơn",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Dương Kinh": {
+    "name": "Dương Kinh",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thuỷ Nguyên": {
+    "name": "Thuỷ Nguyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "An Dương": {
+    "name": "An Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "An Lão": {
+    "name": "An Lão",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      },
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kiến Thuỵ": {
+    "name": "Kiến Thuỵ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tiên Lãng": {
+    "name": "Tiên Lãng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Vĩnh Bảo": {
+    "name": "Vĩnh Bảo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cát Hải": {
+    "name": "Cát Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hải Phòng": {
+        "name": "Hải Phòng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hưng Yên": {
+    "name": "Hưng Yên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Lâm": {
+    "name": "Văn Lâm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Văn Giang": {
+    "name": "Văn Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Mỹ": {
+    "name": "Yên Mỹ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỹ Hào": {
+    "name": "Mỹ Hào",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ân Thi": {
+    "name": "Ân Thi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Khoái Châu": {
+    "name": "Khoái Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kim Động": {
+    "name": "Kim Động",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiên Lữ": {
+    "name": "Tiên Lữ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phù Cừ": {
+    "name": "Phù Cừ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hưng Yên": {
+        "name": "Hưng Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thái Bình": {
+    "name": "Thái Bình",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quỳnh Phụ": {
+    "name": "Quỳnh Phụ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hưng Hà": {
+    "name": "Hưng Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Hưng": {
+    "name": "Đông Hưng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thái Thụy": {
+    "name": "Thái Thụy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiền Hải": {
+    "name": "Tiền Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kiến Xương": {
+    "name": "Kiến Xương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vũ Thư": {
+    "name": "Vũ Thư",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thái Bình": {
+        "name": "Thái Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phủ Lý": {
+    "name": "Phủ Lý",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Duy Tiên": {
+    "name": "Duy Tiên",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kim Bảng": {
+    "name": "Kim Bảng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Liêm": {
+    "name": "Thanh Liêm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Lục": {
+    "name": "Bình Lục",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lý Nhân": {
+    "name": "Lý Nhân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Nam": {
+        "name": "Hà Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Định": {
+    "name": "Nam Định",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vụ Bản": {
+    "name": "Vụ Bản",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ý Yên": {
+    "name": "Ý Yên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghĩa Hưng": {
+    "name": "Nghĩa Hưng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Trực": {
+    "name": "Nam Trực",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trực Ninh": {
+    "name": "Trực Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Xuân Trường": {
+    "name": "Xuân Trường",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Giao Thủy": {
+    "name": "Giao Thủy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hải Hậu": {
+    "name": "Hải Hậu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nam Định": {
+        "name": "Nam Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Bình": {
+    "name": "Ninh Bình",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Điệp": {
+    "name": "Tam Điệp",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nho Quan": {
+    "name": "Nho Quan",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gia Viễn": {
+    "name": "Gia Viễn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoa Lư": {
+    "name": "Hoa Lư",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Khánh": {
+    "name": "Yên Khánh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kim Sơn": {
+    "name": "Kim Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Mô": {
+    "name": "Yên Mô",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Bình": {
+        "name": "Ninh Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Hóa": {
+    "name": "Thanh Hóa",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bỉm Sơn": {
+    "name": "Bỉm Sơn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sầm Sơn": {
+    "name": "Sầm Sơn",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mường Lát": {
+    "name": "Mường Lát",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quan Hóa": {
+    "name": "Quan Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bá Thước": {
+    "name": "Bá Thước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quan Sơn": {
+    "name": "Quan Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lang Chánh": {
+    "name": "Lang Chánh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngọc Lặc": {
+    "name": "Ngọc Lặc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Thủy": {
+    "name": "Cẩm Thủy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạch Thành": {
+    "name": "Thạch Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hà Trung": {
+    "name": "Hà Trung",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Lộc": {
+    "name": "Vĩnh Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Định": {
+    "name": "Yên Định",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thọ Xuân": {
+    "name": "Thọ Xuân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thường Xuân": {
+    "name": "Thường Xuân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Triệu Sơn": {
+    "name": "Triệu Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thiệu Hóa": {
+    "name": "Thiệu Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoằng Hóa": {
+    "name": "Hoằng Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hậu Lộc": {
+    "name": "Hậu Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nga Sơn": {
+    "name": "Nga Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Như Xuân": {
+    "name": "Như Xuân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Như Thanh": {
+    "name": "Như Thanh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nông Cống": {
+    "name": "Nông Cống",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Sơn": {
+    "name": "Đông Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Xương": {
+    "name": "Quảng Xương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghi Sơn": {
+    "name": "Nghi Sơn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Thanh Hóa": {
+        "name": "Thanh Hóa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vinh": {
+    "name": "Vinh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cửa Lò": {
+    "name": "Cửa Lò",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thái Hoà": {
+    "name": "Thái Hoà",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quế Phong": {
+    "name": "Quế Phong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quỳ Châu": {
+    "name": "Quỳ Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kỳ Sơn": {
+    "name": "Kỳ Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tương Dương": {
+    "name": "Tương Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghĩa Đàn": {
+    "name": "Nghĩa Đàn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quỳ Hợp": {
+    "name": "Quỳ Hợp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quỳnh Lưu": {
+    "name": "Quỳnh Lưu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Con Cuông": {
+    "name": "Con Cuông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Kỳ": {
+    "name": "Tân Kỳ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Anh Sơn": {
+    "name": "Anh Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Diễn Châu": {
+    "name": "Diễn Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Yên Thành": {
+    "name": "Yên Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đô Lương": {
+    "name": "Đô Lương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Chương": {
+    "name": "Thanh Chương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghi Lộc": {
+    "name": "Nghi Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Đàn": {
+    "name": "Nam Đàn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hưng Nguyên": {
+    "name": "Hưng Nguyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Nghệ An": {
+        "name": "Nghệ An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hà Tĩnh": {
+    "name": "Hà Tĩnh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hồng Lĩnh": {
+    "name": "Hồng Lĩnh",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hương Sơn": {
+    "name": "Hương Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Thọ": {
+    "name": "Đức Thọ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vũ Quang": {
+    "name": "Vũ Quang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghi Xuân": {
+    "name": "Nghi Xuân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Can Lộc": {
+    "name": "Can Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hương Khê": {
+    "name": "Hương Khê",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạch Hà": {
+    "name": "Thạch Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Xuyên": {
+    "name": "Cẩm Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kỳ Anh": {
+    "name": "Kỳ Anh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lộc Hà": {
+    "name": "Lộc Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hà Tĩnh": {
+        "name": "Hà Tĩnh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thành Phố Đồng Hới": {
+    "name": "Thành Phố Đồng Hới",
+    "prefix": [
+      ""
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Minh Hóa": {
+    "name": "Minh Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuyên Hóa": {
+    "name": "Tuyên Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Trạch": {
+    "name": "Quảng Trạch",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bố Trạch": {
+    "name": "Bố Trạch",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Ninh": {
+    "name": "Quảng Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lệ Thủy": {
+    "name": "Lệ Thủy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Đồn": {
+    "name": "Ba Đồn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Bình": {
+        "name": "Quảng Bình",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Hà": {
+    "name": "Đông Hà",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Trị": {
+    "name": "Quảng Trị",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Linh": {
+    "name": "Vĩnh Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hướng Hóa": {
+    "name": "Hướng Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gio Linh": {
+    "name": "Gio Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đa Krông": {
+    "name": "Đa Krông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cam Lộ": {
+    "name": "Cam Lộ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Triệu Phong": {
+    "name": "Triệu Phong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hải Lăng": {
+    "name": "Hải Lăng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Trị": {
+        "name": "Quảng Trị",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Huế": {
+    "name": "Huế",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phong Điền": {
+    "name": "Phong Điền",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      },
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Quảng Điền": {
+    "name": "Quảng Điền",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Vang": {
+    "name": "Phú Vang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hương Thủy": {
+    "name": "Hương Thủy",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hương Trà": {
+    "name": "Hương Trà",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "A Lưới": {
+    "name": "A Lưới",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Lộc": {
+    "name": "Phú Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Đông": {
+    "name": "Nam Đông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Thừa Thiên Huế": {
+        "name": "Thừa Thiên Huế",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Liên Chiểu": {
+    "name": "Liên Chiểu",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thanh Khê": {
+    "name": "Thanh Khê",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hải Châu": {
+    "name": "Hải Châu",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Sơn Trà": {
+    "name": "Sơn Trà",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Ngũ Hành Sơn": {
+    "name": "Ngũ Hành Sơn",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cẩm Lệ": {
+    "name": "Cẩm Lệ",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hòa Vang": {
+    "name": "Hòa Vang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đà Nẵng": {
+        "name": "Đà Nẵng",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tam Kỳ": {
+    "name": "Tam Kỳ",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hội An": {
+    "name": "Hội An",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tây Giang": {
+    "name": "Tây Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Giang": {
+    "name": "Đông Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đại Lộc": {
+    "name": "Đại Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Điện Bàn": {
+    "name": "Điện Bàn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Duy Xuyên": {
+    "name": "Duy Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quế Sơn": {
+    "name": "Quế Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Giang": {
+    "name": "Nam Giang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phước Sơn": {
+    "name": "Phước Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hiệp Đức": {
+    "name": "Hiệp Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thăng Bình": {
+    "name": "Thăng Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiên Phước": {
+    "name": "Tiên Phước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Trà My": {
+    "name": "Bắc Trà My",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nam Trà My": {
+    "name": "Nam Trà My",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Núi Thành": {
+    "name": "Núi Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Ninh": {
+    "name": "Phú Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nông Sơn": {
+    "name": "Nông Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Nam": {
+        "name": "Quảng Nam",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quảng Ngãi": {
+    "name": "Quảng Ngãi",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Sơn": {
+    "name": "Bình Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trà Bồng": {
+    "name": "Trà Bồng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn Tịnh": {
+    "name": "Sơn Tịnh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tư Nghĩa": {
+    "name": "Tư Nghĩa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn Hà": {
+    "name": "Sơn Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Minh Long": {
+    "name": "Minh Long",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nghĩa Hành": {
+    "name": "Nghĩa Hành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mộ Đức": {
+    "name": "Mộ Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Phổ": {
+    "name": "Đức Phổ",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Tơ": {
+    "name": "Ba Tơ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Quảng Ngãi": {
+        "name": "Quảng Ngãi",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Quy Nhơn": {
+    "name": "Quy Nhơn",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoài Nhơn": {
+    "name": "Hoài Nhơn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoài Ân": {
+    "name": "Hoài Ân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phù Mỹ": {
+    "name": "Phù Mỹ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Thạnh": {
+    "name": "Vĩnh Thạnh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      },
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tây Sơn": {
+    "name": "Tây Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phù Cát": {
+    "name": "Phù Cát",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "An Nhơn": {
+    "name": "An Nhơn",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuy Phước": {
+    "name": "Tuy Phước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vân Canh": {
+    "name": "Vân Canh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Định": {
+        "name": "Bình Định",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuy Hoà": {
+    "name": "Tuy Hoà",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sông Cầu": {
+    "name": "Sông Cầu",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đồng Xuân": {
+    "name": "Đồng Xuân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuy An": {
+    "name": "Tuy An",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sơn Hòa": {
+    "name": "Sơn Hòa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sông Hinh": {
+    "name": "Sông Hinh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tây Hoà": {
+    "name": "Tây Hoà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Hoà": {
+    "name": "Phú Hoà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Hòa": {
+    "name": "Đông Hòa",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Phú Yên": {
+        "name": "Phú Yên",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nha Trang": {
+    "name": "Nha Trang",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cam Ranh": {
+    "name": "Cam Ranh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cam Lâm": {
+    "name": "Cam Lâm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vạn Ninh": {
+    "name": "Vạn Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Hòa": {
+    "name": "Ninh Hòa",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Khánh Vĩnh": {
+    "name": "Khánh Vĩnh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Diên Khánh": {
+    "name": "Diên Khánh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Khánh Sơn": {
+    "name": "Khánh Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trường Sa": {
+    "name": "Trường Sa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Khánh Hòa": {
+        "name": "Khánh Hòa",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phan Rang-Tháp Chàm": {
+    "name": "Phan Rang-Tháp Chàm",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bác Ái": {
+    "name": "Bác Ái",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Sơn": {
+    "name": "Ninh Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Hải": {
+    "name": "Ninh Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Phước": {
+    "name": "Ninh Phước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thuận Bắc": {
+    "name": "Thuận Bắc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thuận Nam": {
+    "name": "Thuận Nam",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Ninh Thuận": {
+        "name": "Ninh Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phan Thiết": {
+    "name": "Phan Thiết",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "La Gi": {
+    "name": "La Gi",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuy Phong": {
+    "name": "Tuy Phong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Bình": {
+    "name": "Bắc Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hàm Thuận Bắc": {
+    "name": "Hàm Thuận Bắc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hàm Thuận Nam": {
+    "name": "Hàm Thuận Nam",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tánh Linh": {
+    "name": "Tánh Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Linh": {
+    "name": "Đức Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hàm Tân": {
+    "name": "Hàm Tân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Quí": {
+    "name": "Phú Quí",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Thuận": {
+        "name": "Bình Thuận",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kon Tum": {
+    "name": "Kon Tum",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk Glei": {
+    "name": "Đắk Glei",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngọc Hồi": {
+    "name": "Ngọc Hồi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk Tô": {
+    "name": "Đắk Tô",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kon Plông": {
+    "name": "Kon Plông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kon Rẫy": {
+    "name": "Kon Rẫy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk Hà": {
+    "name": "Đắk Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sa Thầy": {
+    "name": "Sa Thầy",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tu Mơ Rông": {
+    "name": "Tu Mơ Rông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ia H' Drai": {
+    "name": "Ia H' Drai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kon Tum": {
+        "name": "Kon Tum",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Pleiku": {
+    "name": "Pleiku",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "An Khê": {
+    "name": "An Khê",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ayun Pa": {
+    "name": "Ayun Pa",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "KBang": {
+    "name": "KBang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đăk Đoa": {
+    "name": "Đăk Đoa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chư Păh": {
+    "name": "Chư Păh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ia Grai": {
+    "name": "Ia Grai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mang Yang": {
+    "name": "Mang Yang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kông Chro": {
+    "name": "Kông Chro",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Cơ": {
+    "name": "Đức Cơ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chư Prông": {
+    "name": "Chư Prông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chư Sê": {
+    "name": "Chư Sê",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đăk Pơ": {
+    "name": "Đăk Pơ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ia Pa": {
+    "name": "Ia Pa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Pa": {
+    "name": "Krông Pa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Thiện": {
+    "name": "Phú Thiện",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chư Pưh": {
+    "name": "Chư Pưh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Gia Lai": {
+        "name": "Gia Lai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Buôn Ma Thuột": {
+    "name": "Buôn Ma Thuột",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thị Xã Buôn Hồ": {
+    "name": "Thị Xã Buôn Hồ",
+    "prefix": [
+      ""
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ea H'leo": {
+    "name": "Ea H'leo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ea Súp": {
+    "name": "Ea Súp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Buôn Đôn": {
+    "name": "Buôn Đôn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cư M'gar": {
+    "name": "Cư M'gar",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Búk": {
+    "name": "Krông Búk",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Năng": {
+    "name": "Krông Năng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ea Kar": {
+    "name": "Ea Kar",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "M'Đrắk": {
+    "name": "M'Đrắk",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Bông": {
+    "name": "Krông Bông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Pắc": {
+    "name": "Krông Pắc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông A Na": {
+    "name": "Krông A Na",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lắk": {
+    "name": "Lắk",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cư Kuin": {
+    "name": "Cư Kuin",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Lắk": {
+        "name": "Đắk Lắk",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gia Nghĩa": {
+    "name": "Gia Nghĩa",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đăk Glong": {
+    "name": "Đăk Glong",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cư Jút": {
+    "name": "Cư Jút",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk Mil": {
+    "name": "Đắk Mil",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Krông Nô": {
+    "name": "Krông Nô",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk Song": {
+    "name": "Đắk Song",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đắk R'Lấp": {
+    "name": "Đắk R'Lấp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tuy Đức": {
+    "name": "Tuy Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đắk Nông": {
+        "name": "Đắk Nông",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đà Lạt": {
+    "name": "Đà Lạt",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bảo Lộc": {
+    "name": "Bảo Lộc",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đam Rông": {
+    "name": "Đam Rông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lạc Dương": {
+    "name": "Lạc Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lâm Hà": {
+    "name": "Lâm Hà",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đơn Dương": {
+    "name": "Đơn Dương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Trọng": {
+    "name": "Đức Trọng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Di Linh": {
+    "name": "Di Linh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đạ Huoai": {
+    "name": "Đạ Huoai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đạ Tẻh": {
+    "name": "Đạ Tẻh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cát Tiên": {
+    "name": "Cát Tiên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Lâm Đồng": {
+        "name": "Lâm Đồng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phước Long": {
+    "name": "Phước Long",
+    "prefix": [
+      "Thị xã",
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      },
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đồng Xoài": {
+    "name": "Đồng Xoài",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Long": {
+    "name": "Bình Long",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bù Gia Mập": {
+    "name": "Bù Gia Mập",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lộc Ninh": {
+    "name": "Lộc Ninh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bù Đốp": {
+    "name": "Bù Đốp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hớn Quản": {
+    "name": "Hớn Quản",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đồng Phú": {
+    "name": "Đồng Phú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bù Đăng": {
+    "name": "Bù Đăng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chơn Thành": {
+    "name": "Chơn Thành",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Riềng": {
+    "name": "Phú Riềng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Phước": {
+        "name": "Bình Phước",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tây Ninh": {
+    "name": "Tây Ninh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Biên": {
+    "name": "Tân Biên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Châu": {
+    "name": "Tân Châu",
+    "prefix": [
+      "Huyện",
+      "Thị xã"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      },
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Dương Minh Châu": {
+    "name": "Dương Minh Châu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Châu Thành": {
+    "name": "Châu Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      },
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      },
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      },
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      },
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      },
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      },
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      },
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      },
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      },
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hòa Thành": {
+    "name": "Hòa Thành",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gò Dầu": {
+    "name": "Gò Dầu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bến Cầu": {
+    "name": "Bến Cầu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trảng Bàng": {
+    "name": "Trảng Bàng",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Tây Ninh": {
+        "name": "Tây Ninh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thủ Dầu Một": {
+    "name": "Thủ Dầu Một",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bàu Bàng": {
+    "name": "Bàu Bàng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Dầu Tiếng": {
+    "name": "Dầu Tiếng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bến Cát": {
+    "name": "Bến Cát",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Giáo": {
+    "name": "Phú Giáo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Dĩ An": {
+    "name": "Dĩ An",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thuận An": {
+    "name": "Thuận An",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bắc Tân Uyên": {
+    "name": "Bắc Tân Uyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bình Dương": {
+        "name": "Bình Dương",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Biên Hòa": {
+    "name": "Biên Hòa",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Khánh": {
+    "name": "Long Khánh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Phú": {
+    "name": "Tân Phú",
+    "prefix": [
+      "Huyện",
+      "Quận"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      },
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Vĩnh Cửu": {
+    "name": "Vĩnh Cửu",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Định Quán": {
+    "name": "Định Quán",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trảng Bom": {
+    "name": "Trảng Bom",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thống Nhất": {
+    "name": "Thống Nhất",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cẩm Mỹ": {
+    "name": "Cẩm Mỹ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Thành": {
+    "name": "Long Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Xuân Lộc": {
+    "name": "Xuân Lộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Nhơn Trạch": {
+    "name": "Nhơn Trạch",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Nai": {
+        "name": "Đồng Nai",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vũng Tàu": {
+    "name": "Vũng Tàu",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bà Rịa": {
+    "name": "Bà Rịa",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Châu Đức": {
+    "name": "Châu Đức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Xuyên Mộc": {
+    "name": "Xuyên Mộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Điền": {
+    "name": "Long Điền",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đất Đỏ": {
+    "name": "Đất Đỏ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Mỹ": {
+    "name": "Phú Mỹ",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bà Rịa - Vũng Tàu": {
+        "name": "Bà Rịa - Vũng Tàu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "1": {
+    "name": "1",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "12": {
+    "name": "12",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Gò Vấp": {
+    "name": "Gò Vấp",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Bình Thạnh": {
+    "name": "Bình Thạnh",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tân Bình": {
+    "name": "Tân Bình",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Phú Nhuận": {
+    "name": "Phú Nhuận",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thủ Đức": {
+    "name": "Thủ Đức",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "3": {
+    "name": "3",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "10": {
+    "name": "10",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "11": {
+    "name": "11",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "4": {
+    "name": "4",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "5": {
+    "name": "5",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "6": {
+    "name": "6",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "8": {
+    "name": "8",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Bình Tân": {
+    "name": "Bình Tân",
+    "prefix": [
+      "Quận",
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      },
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "7": {
+    "name": "7",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Củ Chi": {
+    "name": "Củ Chi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Hóc Môn": {
+    "name": "Hóc Môn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Bình Chánh": {
+    "name": "Bình Chánh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Nhà Bè": {
+    "name": "Nhà Bè",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cần Giờ": {
+    "name": "Cần Giờ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hồ Chí Minh": {
+        "name": "Hồ Chí Minh",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Tân An": {
+    "name": "Tân An",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kiến Tường": {
+    "name": "Kiến Tường",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Hưng": {
+    "name": "Tân Hưng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Hưng": {
+    "name": "Vĩnh Hưng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mộc Hóa": {
+    "name": "Mộc Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Thạnh": {
+    "name": "Tân Thạnh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạnh Hóa": {
+    "name": "Thạnh Hóa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Huệ": {
+    "name": "Đức Huệ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đức Hòa": {
+    "name": "Đức Hòa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bến Lức": {
+    "name": "Bến Lức",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thủ Thừa": {
+    "name": "Thủ Thừa",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Trụ": {
+    "name": "Tân Trụ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cần Đước": {
+    "name": "Cần Đước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cần Giuộc": {
+    "name": "Cần Giuộc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Long An": {
+        "name": "Long An",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỹ Tho": {
+    "name": "Mỹ Tho",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gò Công": {
+    "name": "Gò Công",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cai Lậy": {
+    "name": "Cai Lậy",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Phước": {
+    "name": "Tân Phước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cái Bè": {
+    "name": "Cái Bè",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chợ Gạo": {
+    "name": "Chợ Gạo",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gò Công Tây": {
+    "name": "Gò Công Tây",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gò Công Đông": {
+    "name": "Gò Công Đông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Phú Đông": {
+    "name": "Tân Phú Đông",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Tiền Giang": {
+        "name": "Tiền Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bến Tre": {
+    "name": "Bến Tre",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Chợ Lách": {
+    "name": "Chợ Lách",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỏ Cày Nam": {
+    "name": "Mỏ Cày Nam",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Giồng Trôm": {
+    "name": "Giồng Trôm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Đại": {
+    "name": "Bình Đại",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ba Tri": {
+    "name": "Ba Tri",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạnh Phú": {
+    "name": "Thạnh Phú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỏ Cày Bắc": {
+    "name": "Mỏ Cày Bắc",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bến Tre": {
+        "name": "Bến Tre",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trà Vinh": {
+    "name": "Trà Vinh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Càng Long": {
+    "name": "Càng Long",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cầu Kè": {
+    "name": "Cầu Kè",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tiểu Cần": {
+    "name": "Tiểu Cần",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cầu Ngang": {
+    "name": "Cầu Ngang",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trà Cú": {
+    "name": "Trà Cú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Duyên Hải": {
+    "name": "Duyên Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Trà Vinh": {
+        "name": "Trà Vinh",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Long": {
+    "name": "Vĩnh Long",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Hồ": {
+    "name": "Long Hồ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mang Thít": {
+    "name": "Mang Thít",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vũng Liêm": {
+    "name": "Vũng Liêm",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tam Bình": {
+    "name": "Tam Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bình Minh": {
+    "name": "Bình Minh",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trà Ôn": {
+    "name": "Trà Ôn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Vĩnh Long": {
+        "name": "Vĩnh Long",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cao Lãnh": {
+    "name": "Cao Lãnh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sa Đéc": {
+    "name": "Sa Đéc",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hồng Ngự": {
+    "name": "Hồng Ngự",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Hồng": {
+    "name": "Tân Hồng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tháp Mười": {
+    "name": "Tháp Mười",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thanh Bình": {
+    "name": "Thanh Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lấp Vò": {
+    "name": "Lấp Vò",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Lai Vung": {
+    "name": "Lai Vung",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Đồng Tháp": {
+        "name": "Đồng Tháp",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Xuyên": {
+    "name": "Long Xuyên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Châu Đốc": {
+    "name": "Châu Đốc",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "An Phú": {
+    "name": "An Phú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Tân": {
+    "name": "Phú Tân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      },
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Châu Phú": {
+    "name": "Châu Phú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tịnh Biên": {
+    "name": "Tịnh Biên",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tri Tôn": {
+    "name": "Tri Tôn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thoại Sơn": {
+    "name": "Thoại Sơn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "An Giang": {
+        "name": "An Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Rạch Giá": {
+    "name": "Rạch Giá",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hà Tiên": {
+    "name": "Hà Tiên",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kiên Lương": {
+    "name": "Kiên Lương",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hòn Đất": {
+    "name": "Hòn Đất",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Tân Hiệp": {
+    "name": "Tân Hiệp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Giồng Riềng": {
+    "name": "Giồng Riềng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Gò Quao": {
+    "name": "Gò Quao",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "An Biên": {
+    "name": "An Biên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "An Minh": {
+    "name": "An Minh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Thuận": {
+    "name": "Vĩnh Thuận",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phú Quốc": {
+    "name": "Phú Quốc",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kiên Hải": {
+    "name": "Kiên Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "U Minh Thượng": {
+    "name": "U Minh Thượng",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Giang Thành": {
+    "name": "Giang Thành",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Kiên Giang": {
+        "name": "Kiên Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ninh Kiều": {
+    "name": "Ninh Kiều",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Ô Môn": {
+    "name": "Ô Môn",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Bình Thuỷ": {
+    "name": "Bình Thuỷ",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cái Răng": {
+    "name": "Cái Răng",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thốt Nốt": {
+    "name": "Thốt Nốt",
+    "prefix": [
+      "Quận"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Cờ Đỏ": {
+    "name": "Cờ Đỏ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Thới Lai": {
+    "name": "Thới Lai",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cần Thơ": {
+        "name": "Cần Thơ",
+        "prefix": "Thành phố"
+      }
+    }
+  },
+  "Vị Thanh": {
+    "name": "Vị Thanh",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngã Bảy": {
+    "name": "Ngã Bảy",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Châu Thành A": {
+    "name": "Châu Thành A",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Phụng Hiệp": {
+    "name": "Phụng Hiệp",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vị Thuỷ": {
+    "name": "Vị Thuỷ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Mỹ": {
+    "name": "Long Mỹ",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Hậu Giang": {
+        "name": "Hậu Giang",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Sóc Trăng": {
+    "name": "Sóc Trăng",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Kế Sách": {
+    "name": "Kế Sách",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỹ Tú": {
+    "name": "Mỹ Tú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cù Lao Dung": {
+    "name": "Cù Lao Dung",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Long Phú": {
+    "name": "Long Phú",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Mỹ Xuyên": {
+    "name": "Mỹ Xuyên",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngã Năm": {
+    "name": "Ngã Năm",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thạnh Trị": {
+    "name": "Thạnh Trị",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Châu": {
+    "name": "Vĩnh Châu",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trần Đề": {
+    "name": "Trần Đề",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Sóc Trăng": {
+        "name": "Sóc Trăng",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Bạc Liêu": {
+    "name": "Bạc Liêu",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hồng Dân": {
+    "name": "Hồng Dân",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Vĩnh Lợi": {
+    "name": "Vĩnh Lợi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Giá Rai": {
+    "name": "Giá Rai",
+    "prefix": [
+      "Thị xã"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đông Hải": {
+    "name": "Đông Hải",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Hoà Bình": {
+    "name": "Hoà Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Bạc Liêu": {
+        "name": "Bạc Liêu",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cà Mau": {
+    "name": "Cà Mau",
+    "prefix": [
+      "Thành phố"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "U Minh": {
+    "name": "U Minh",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Thới Bình": {
+    "name": "Thới Bình",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Trần Văn Thời": {
+    "name": "Trần Văn Thời",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Cái Nước": {
+    "name": "Cái Nước",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Đầm Dơi": {
+    "name": "Đầm Dơi",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Năm Căn": {
+    "name": "Năm Căn",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  },
+  "Ngọc Hiển": {
+    "name": "Ngọc Hiển",
+    "prefix": [
+      "Huyện"
+    ],
+    "provinces": {
+      "Cà Mau": {
+        "name": "Cà Mau",
+        "prefix": "Tỉnh"
+      }
+    }
+  }
+}
