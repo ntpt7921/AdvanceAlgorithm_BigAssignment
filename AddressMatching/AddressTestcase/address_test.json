@@ -1,0 +1,243 @@
+test_case =
+[
+    {
+        "input": "11 LÔ J4 KP4 ĐƯỜNG DD12 Phường Tân Hưng Thuận Quận 12 Hồ Chí Minh",
+        "output": {
+            "province": "Hồ Chí Minh",
+            "district": "12",
+            "ward": "Tân Hưng Thuận"
+        }
+    },
+    {
+        "input": "141/11D3 đường Tôn Đản; phường 14; quận 4",
+        "output": {
+            "province": "",
+            "district": "4",
+            "ward": "14"
+        }
+    },
+    {
+        "input": "số nhà 18 - khu 1 - tt. Trạm Trôi - h. Hoài Đức - HN",
+        "output": {
+            "province": "Hà Nội",
+            "district": "Hoài Đức",
+            "ward": "Trạm Trôi"
+        }
+    },
+    {
+        "input": "chung cư Green River; Block C; 2225 Phạm Thế Hiển; P6; Q8",
+        "output": {
+            "province": "",
+            "district": "8",
+            "ward": "6"
+        }
+    },
+    {
+        "input": "1540 Tỉnh Lộ 10, Tân Tạo, Bình Tân",
+        "output": {
+            "province": "",
+            "district": "Bình Tân",
+            "ward": "Tân Tạo"
+        }
+    },
+    {
+        "input": "A25 khu trung tâm thương mại Thốt Nốt - q. Thốt Nốt - Cần Thơ",
+        "output": {
+            "province": "Cần Thơ",
+            "district": "Thốt Nốt",
+            "ward": ""
+        }
+    },
+    {
+        "input": "Nhà B60 khu tập thể sân bay 40 đường 30/4; p.9; TP. Vũng Tàu",
+        "output": {
+            "province": "",
+            "district": "Vùng Tàu",
+            "ward": "9"
+        }
+    },
+    {
+        "input": "Xóm 10, x.Nghi Phú, TP.Vinh,, NghệAn",
+        "output": {
+            "province": "Nghệ An",
+            "district": "Vinh",
+            "ward": "Nghi Phú"
+        }
+    },
+    {
+        "input": "S208-P2618, Vinhomes Ocean Park, Hà Nội",
+        "output": {
+            "province": "Hà Nội",
+            "district": "",
+            "ward": ""
+        }
+    },
+    {
+        "input": "127E ngo tat tố; nhà hẻm khu phố 2 to dan phố 13; phuong 22; binh thanh",
+        "output": {
+            "province": "",
+            "district": "Bình Thạnh",
+            "ward": "22"
+        }
+    },
+    {
+        "input": "Kim Hoàn building Ngõ 19 duy tân ; nam từ liêm Ha Noi",
+        "output": {
+            "province": "Hà Nội",
+            "district": "Nam Từ Liêm",
+            "ward": ""
+        }
+    },
+    {
+        "input": "88/57 Nguyễn Khoái",
+        "output": {
+            "province": "",
+            "district": "",
+            "ward": ""
+        }
+    },
+    {
+        "input": "Ngõ 142 Nguyễn Sinh Cung; Phưỡng Vỹ Dạ Nhà số 3 Huế",
+        "output": {
+            "province": "",
+            "district": "Huế",
+            "ward": "Vỹ Dạ"
+        }
+    },
+    {
+        "input": "04-07 Tuylip vinhome Riverside quận Long Biên;",
+        "output": {
+            "province": "",
+            "district": "Long Biên",
+            "ward": ""
+        }
+    },
+    {
+        "input": "nhà số 13 / 3a , đường bình chuẩn 09 , kp bình quới b , phường bình chuẩn , thị xã thuận an , bình dương",
+        "output": {
+            "province": "Bình Dương",
+            "district": "Thuận An",
+            "ward": "Bình Chuẩn"
+        }
+    },
+    {
+        "input": "51 đường Ngụy Như Kon Tum; phường Hiệp Tân; Q. Tân Phú",
+        "output": {
+            "province": "",
+            "district": "Tân Phú",
+            "ward": "Hiệp Tân"
+        }
+    },
+    {
+        "input": "Ấp 5; Phú Xuân; Nhà Bè",
+        "output": {
+            "province": "",
+            "district": "Nhà Bè",
+            "ward": "Phú Xuân"
+        }
+    },
+    {
+        "input": "27/170 điện biên phủ; f.15; quận bình thạnh.",
+        "output": {
+            "province": "",
+            "district": "Bình Thạnh",
+            "ward": "15"
+        }
+    },
+    {
+        "input": "47 đại lộ lê lợi Phường Tân Sơn Thành phố Thanh Hóa Thanh Hóa",
+        "output": {
+            "province": "Thanh Hóa",
+            "district": "Thanh Hóa",
+            "ward": "Tân Sơn"
+        }
+    },
+    {
+        "input": "69/OD tổ 13 khu vực bình dương A; phường long tuyền; quận bình thủy; TP cần thơ.",
+        "output": {
+            "province": "Cần Thơ",
+            "district": "Bình Thủy",
+            "ward": "Long Tuyền"
+        }
+    },
+    {
+        "input": "55/80 nguyễn văn công p3 qGV",
+        "output": {
+            "province": "",
+            "district": "Gò Vấp",
+            "ward": "3"
+        }
+    },
+    {
+        "input": "38 trần khánh dư; phường Diên Hồng Pleiku",
+        "output": {
+            "province": "",
+            "district": "Pleiku",
+            "ward": "Diên Hồng"
+        }
+    },
+    {
+        "input": "1716 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, HCM",
+        "output": {
+            "province": "Hồ Chí Minh",
+            "district": "Nhà Bè",
+            "ward": "Nhà Bè"
+        }
+    },
+    {
+        "input": "block b chung cư sunrise riverside- phước kiển- nhà bè",
+        "output": {
+            "province": "",
+            "district": "Nhà Bè",
+            "ward": "Phước Kiển"
+        }
+    },
+    {
+        "input": "33C khu dân cư bửu long - Biên Hoà Đông Nai",
+        "output": {
+            "province": "Đồng Nai",
+            "district": "Biên Hòa",
+            "ward": ""
+        }
+    },
+    {
+        "input": "Số 2 ngõ 3 Đường cần trạm. Thị trấn Vôi lạng giang- bắc giang",
+        "output": {
+            "province": "Bắc Giang",
+            "district": "Lạng Giang",
+            "ward": "Vôi"
+        }
+    },
+    {
+        "input": "81 phan chu trinh; thành phố buôn ma thuộc",
+        "output": {
+            "province": "",
+            "district": "Buôn Ma Thuột",
+            "ward": ""
+        }
+    },
+    {
+        "input": "D17/7B Đinh Đức Thiện; Ấp 4; Bình Chánh",
+        "output": {
+            "province": "",
+            "district": "",
+            "ward": "Bình Chánh"
+        }
+    },
+    {
+        "input": "Tổ 2; đường Thanh Minh Tám Huyện Konplong; Kontum",
+        "output": {
+            "province": "Kon Tum",
+            "district": "Kon Plông",
+            "ward": ""
+        }
+    },
+    {
+        "input": "161 XA LO HA NOI; HCM",
+        "output": {
+            "province": "Hồ Chí Minh",
+            "district": "",
+            "ward": ""
+        }
+    }
+]

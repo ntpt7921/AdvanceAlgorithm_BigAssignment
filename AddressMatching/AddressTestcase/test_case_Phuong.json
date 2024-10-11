@@ -1,0 +1,138 @@
+test_case =
+[
+    {
+        "input": "10 đường Y Jút, tổ dân phố 2, thị trấn Ea Drăng, huyện Ea H'Leo, tỉnh Đắk Lắk",
+        "output":
+        {
+            "province": "Đắk Lắk",
+            "district": "Ea H'Leo",
+            "ward": "Ea Drăng"
+        }
+    },
+    {
+        "input": "5 Đồng Nai, phường 2, quận Tân Bình, TP.HCM",
+        "output":
+        {
+            "province": "TP.HCM",
+            "district": "Tân Bình",
+            "ward": "2"
+        }
+    },
+    {
+        "input": "9 Tiền Giang, phường 2, quận Tân Bình, TP.Hồ Chí Minh",
+        "output":
+        {
+            "province": "TP.Hồ Chí Minh",
+            "district": "Tân Bình",
+            "ward": "2"
+        }
+    },
+    {
+        "input": "KP1, Long Bình Tân, Biên Hòa, ĐN",
+        "output":
+        {
+            "province": "ĐN",
+            "district": "Biên Hòa",
+            "ward": "Long Bình Tân"
+        }
+    },
+    {
+        "input": "Lý Sơn, Quảng Ngãi",
+        "output":
+        {
+            "province": "Quảng Ngãi",
+            "district": "Lý Sơn",
+            "ward": ""
+        },
+    },
+    {
+        "input": "đường Hải Phòng, Đà Nẵng",
+        "output":
+        {
+            "province": "Đà Nẵng",
+            "district": "",
+            "ward": ""
+        },
+    },
+    {
+        "input": "1806/127/2/6/15/46 Huỳnh Tấn Phát, thị trấn Nhà Bè, huyện Nhà Bè, TP.Hồ Chí Minh",
+        "output":
+        {
+            "province": "Hồ Chí Minh",
+            "district": "Nhà Bè",
+            "ward": "Nhà Bè"
+        },
+    },
+    {
+        "input": "1806/127/2/6/15/46 Huỳnh Tấn Phát, thị trấn Nhà Bè, huyện Nhà Bè, TP.Hồ Chí Minh",
+        "output":
+        {
+            "province": "Hồ Chí Minh",
+            "district": "Nhà Bè",
+            "ward": "Nhà Bè"
+        },
+    },
+    {
+        "input": "số 292 Đinh Bộ Lĩnh, P.26, Q.Bình Thạnh, TP.Hồ Chí Minh",
+        "output":
+        {
+            "province": "Hồ Chí Minh",
+            "district": "Bình Thạnh",
+            "ward": "26"
+        },
+    },
+    {
+        "input": "753 Lê Văn Sỹ, P. 13, Phú Nhuận",
+        "output":
+        {
+            "province": "",
+            "district": "Phú Nhuận",
+            "ward": "13"
+        },
+    },
+    {
+        "input": "135 Đường Lê Duẩn, Thạch Thang, Đà Nẵng",
+        "output":
+        {
+            "province": "Đà Nẵng",
+            "district": "",
+            "ward": "Thạch Thang"
+        },
+    },
+    {
+        "input": "22 Nguyễn Văn Linh, ĐN",
+        "output":
+        {
+            "province": "ĐN",
+            "district": "",
+            "ward": ""
+        },
+    },
+    {
+        "input": "135 Đường Lê Duẩn Thạch Thang Đà Nẵng",
+        "output":
+        {
+            "province": "Đà Nẵng",
+            "district": "",
+            "ward": "Thạch Thang"
+        },
+    },
+    {
+        "input": "2/10 đ.số 8, KP14, Hiệp Bình Phước, TĐ, Hồ Chí Minh",
+        "output":
+        {
+            "province": "Hồ Chí Minh",
+            "district": "TĐ",
+            "ward": "Hiệp Bình Phước"
+        },
+    },
+    {
+        "input": "1096 Hùng Vương, Thống Nhất, thị xã Buôn Hồ, Đắk Lắk",
+        "output":
+        {
+            "province": "Đắk Lắk",
+            "district": "Buôn Hồ",
+            "ward": "Thống Nhất"
+        },
+    }
+]
