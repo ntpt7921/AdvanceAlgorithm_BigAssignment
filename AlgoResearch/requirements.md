@@ -67,7 +67,6 @@ programming, greedy algorithms, etc.)
 or heuristics. Assess how these optimizations affect the algorithm’s behaviour (if any).
 
 
-
 4.    Complexity Analysis and Proof of Correctness:
 
 - Perform a detailed analysis of the algorithm’s time and space complexity. Consider best-case,
